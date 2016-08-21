@@ -1,0 +1,26 @@
+<game>
+ <move NewPos="42" OldPos="31" color="1"/>
+ <move NewPos="55" OldPos="64" color="0"/>
+ <move NewPos="51" OldPos="42" color="1"/>
+ <move NewPos="53" OldPos="62" color="0"/>
+ <move NewPos="31" OldPos="22" color="1"/>
+ <move NewPos="42" OldPos="53" color="0"/>
+ <move NewPos="53" OldPos="31" color="1"/>
+ <move NewPos="44" OldPos="55" color="0"/>
+ <move NewPos="55" OldPos="33" color="1"/>
+ <move NewPos="44" OldPos="66" color="0"/>
+ <move NewPos="22" OldPos="13" color="1"/>
+ <move NewPos="66" OldPos="75" color="0"/>
+ <move NewPos="33" OldPos="24" color="1"/>
+ <move NewPos="55" OldPos="66" color="0"/>
+ <move NewPos="24" OldPos="15" color="1"/>
+ <move NewPos="62" OldPos="71" color="0"/>
+ <move NewPos="71" OldPos="53" color="1"/>
+ <move NewPos="46" OldPos="55" color="0"/>
+ <move NewPos="55" OldPos="37" color="1"/>
+ <move NewPos="66" OldPos="77" color="0"/>
+ <move NewPos="77" OldPos="55" color="1"/>
+ <move NewPos="66" OldPos="88" color="0"/>
+ <move NewPos="77" OldPos="33" color="1"/>
+ <move NewPos="62" OldPos="73" color="0"/>
+</game>
